@@ -19,3 +19,5 @@ npm run build
 ```
 npm run lint
 ```
+Demo:
+https://drozdmargo.github.io/vue-cinema-app/
