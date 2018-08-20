@@ -21,7 +21,7 @@
     },
     methods: {
       checkSeat(item) {
-        console.log(item)
+       // console.log(item)
         this.isActive = !this.isActive;
         if (item.available && this.isActive) {
           this.$emit('checked-item', item)
