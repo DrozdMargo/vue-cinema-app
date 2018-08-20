@@ -39,6 +39,12 @@
           "price": 100,
           "available": true,
           "index": 6
+        },
+        {
+          "id": 7,
+          "price": 100,
+          "available": true,
+          "index": 7
         }
       ]
     }
