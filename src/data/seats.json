@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "id": 0,
+      "index": 0,
+      "seats": [
+        {
+          "id": 0,
+          "price": 100,
+          "available": false,
+          "index": 0
+        },
+        {
+          "id": 1,
+          "price": 100,
+          "available": true,
+          "index": 1
+        },
+        {
+          "id": 2,
+          "price": 100,
+          "available": false,
+          "index": 2
+        },
+        {
+          "id": 3,
+          "price": 100,
+          "available": true,
+          "index": 3
+        },
+        {
+          "id": 5,
+          "price": 100,
+          "available": false,
+          "index": 5
+        },
+        {
+          "id": 6,
+          "price": 100,
+          "available": true,
+          "index": 6
+        }
+      ]
+    }
+  ]
+}
